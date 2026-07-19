@@ -23,12 +23,15 @@ body{
 /* ============================= */
 
 .hero{
-    background:linear-gradient(135deg,#4f46e5,#2563eb);
-    color:white;
+    background-image: url("assets/fond.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
-    text-align:center;
+    color: white;
+    text-align: center;
 
-    padding:70px 20px;
+    padding: 70px 20px;
 }
 
 .logo{
